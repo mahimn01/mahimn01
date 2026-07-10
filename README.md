@@ -9,3 +9,6 @@ I'm 18, headed to University of Toronto this September to study Economics + Math
 If you're working on something interesting and want a second pair of eyes on it, email me — I'm usually around.
 
 mahimn.patel@mail.utoronto.ca
+
+
+[mahimn.dev](https://mahimn.dev)
